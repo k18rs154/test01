@@ -13,3 +13,16 @@ Makng *Unordered* list easy.
 * 1st item
 + 2nd item
 * 3rd item
+
+## Section 3
+*Ordered* list is very useful.
+
+1. number 1
+1. number 2
+2. number 3
+7. number 4
+1. number 5
+
+## Section 4
+
+You can jump to [GitHub](http://github.com)easily.
